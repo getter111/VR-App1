@@ -1,0 +1,2 @@
+C:\Users\Alex Lin\CPSC 4110 Activity 1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Alex Lin\CPSC 4110 Activity 1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

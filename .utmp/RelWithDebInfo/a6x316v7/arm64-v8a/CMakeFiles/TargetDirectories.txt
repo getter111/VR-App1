@@ -1,0 +1,5 @@
+C:/Users/Alex Lin/CPSC 4110 Activity 1/.utmp/RelWithDebInfo/a6x316v7/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Alex Lin/CPSC 4110 Activity 1/.utmp/RelWithDebInfo/a6x316v7/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Alex Lin/CPSC 4110 Activity 1/.utmp/RelWithDebInfo/a6x316v7/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/Alex Lin/CPSC 4110 Activity 1/.utmp/RelWithDebInfo/a6x316v7/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Alex Lin/CPSC 4110 Activity 1/.utmp/RelWithDebInfo/a6x316v7/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
